@@ -1,11 +1,11 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+Изменил текст!
 
 # Usage
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+Поменял и добавил фамилию, имя**{Степанов Антон, 11б группа}**.
 
 # Building
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+Импортировал репозиторий, выполнил изменения
