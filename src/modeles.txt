@@ -1,0 +1,7 @@
+Toyota 20000
+Honda 22000
+Ford 21000
+BMW 30000
+Mercedes 35000
+Volkswagen 24000
+Audi 28000
